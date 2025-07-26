@@ -1,10 +1,8 @@
 # Tic-Tac-Toe: A Classic Game Built with Modern JavaScript
-(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-(https://img.shields.io/badge/deployment-pending-red.svg)](#)
 
 A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla JavaScript, HTML5, and CSS3. This project serves as a demonstration of core front-end development principles, including DOM manipulation, event handling, and game state management.
 
-(Placeholder for a high-quality GIF demonstrating gameplay. This is a critical element to add.)
+https://github.com/RohanThawait/tic-tac-toe/blob/main/tic-tac-toe.gif
 
 ###(https://RohanThawait.github.io/tic-tac-toe/)
 
@@ -15,10 +13,9 @@ The goal of this project was to solidify foundational web development skills by 
 
 Tech Stack
 This project is built exclusively with core web technologies:
-
-!(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-!(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-!(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# HTML5
+# CSS3
+# Javascript
 
 Features
 Interactive Gameplay: Click on any open square to place your mark.
