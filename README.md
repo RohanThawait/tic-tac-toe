@@ -5,7 +5,9 @@ A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla Ja
 ### [**Live Demo**](https://rohanthawait.github.io/tic-tac-toe/)
 
 
-!(https://github.com/RohanThawait/tic-tac-toe/blob/bc24a66a6f77287bd7d4fbcc515a72f3c0482192/tic-tac-toe.gif)
+<p align="center">
+  <img src="tic-tac-toe.gif" alt="Tic-Tac-Toe Gameplay Demo" width="600">
+</p>
 
 -----
 
