@@ -33,7 +33,7 @@ This project is built exclusively with core web technologies:
 
   * **HTML5**
   * **CSS3**
-  * **JavaScript (ES6+)**
+  * **JavaScript**
 
 -----
 
